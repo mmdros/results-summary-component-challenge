@@ -57,5 +57,5 @@ Durante o desenvolvimento deste desafio, foquei em organizar o CSS de forma modu
 
 ## Autor
 
-- Frontend Mentor - [@seu-usuario](https://www.frontendmentor.io/profile/seu-usuario)
-- LinkedIn - [Seu Nome](https://www.linkedin.com/in/seu-perfil)
+- Frontend Mentor - [@mmdros](https://www.frontendmentor.io/profile/mmdros)
+- LinkedIn - [Matheus Medeiros](https://www.linkedin.com/in/matheus-medeiros-9644a312b/)
