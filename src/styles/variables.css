@@ -1,0 +1,17 @@
+
+:root {
+  --color-hero: #6542FE;
+  --color-secundary: #322deb;
+  --color-background: #ECF2FF;
+  --color-btn: #303b59;
+  --color-text: hsl(223, 47%, 23%);
+  --color-text-light: hsl(224, 23%, 55%);
+  --color-white: #ffffff;
+  --color-reaction: #cf6f72 ;
+  --color-memory: #F4BA50 ;
+  --color-verbal: #23b38d ;
+  --color-visual: #313DA1 ;
+
+  --font-primary: "Red Hat Display", sans-serif;
+  --font-size-base: 16px;
+}

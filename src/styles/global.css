@@ -1,0 +1,52 @@
+.main {
+  background-color: var(--color-background);
+  width: 100%;
+  min-width: 700px;
+  height: 100vh;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  width: 100vw;
+  height: 100vh;
+  margin: 0 auto;
+}
+
+.hero,
+.features {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  height: 475px;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.hero {
+  background-image: linear-gradient(180deg, var(--color-hero), var(--color-secundary));
+  border-radius: 20px;
+  z-index: 1;
+}
+
+.features {
+  margin-left: -20px;
+  background-color: var(--color-white);
+  border-radius: 0px 20px 20px 0px;
+  padding: 2rem;
+}
+
+.reaction {
+  color:;
+}
+
+.memory {
+}
+
+.verbal {
+}
+
+.visual {
+}
