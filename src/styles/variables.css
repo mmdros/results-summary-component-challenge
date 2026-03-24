@@ -4,13 +4,18 @@
   --color-secundary: #322deb;
   --color-background: #ECF2FF;
   --color-btn: #303b59;
-  --color-text: hsl(223, 47%, 23%);
-  --color-text-light: hsl(224, 23%, 55%);
+  --color-text: #43485d;
+  --color-text-light: #9a959f;
   --color-white: #ffffff;
   --color-reaction: #cf6f72 ;
+  --color-reaction-background: #fff6f7 ;
   --color-memory: #F4BA50 ;
+  --color-memory-background: #FFFAF4 ;
   --color-verbal: #23b38d ;
+  --color-verbal-background: #F2FDF9 ;
   --color-visual: #313DA1 ;
+  --color-visual-background: #F4F4FE ;
+
 
   --font-primary: "Red Hat Display", sans-serif;
   --font-size-base: 16px;
