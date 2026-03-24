@@ -1,3 +1,9 @@
+@font-face {
+  font-family: 'Hanken Grotesk';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../assets/fonts/HankenGrotesk-VariableFont_wght.ttf') format('truetype');
+}
 
 :root {
   --color-hero: #6542FE;
@@ -7,6 +13,10 @@
   --color-text: #43485d;
   --color-text-light: #9a959f;
   --color-white: #ffffff;
+  --color-hero-text: #bcbaff;
+
+/*Summary Colors*/
+
   --color-reaction: #cf6f72 ;
   --color-reaction-background: #fff6f7 ;
   --color-memory: #F4BA50 ;
@@ -15,9 +25,8 @@
   --color-verbal-background: #F2FDF9 ;
   --color-visual: #313DA1 ;
   --color-visual-background: #F4F4FE ;
-  --color-hero-text: #bcbaff;
 
 
-  --font-primary: "Red Hat Display", sans-serif;
-  --font-size-base: 16px;
+  --font-primary: "Hanken Grotesk", sans-serif;
+  --font-size-base: 1rem;
 }
