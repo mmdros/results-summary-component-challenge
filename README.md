@@ -40,13 +40,15 @@ Os usuários devem ser capazes de:
 
 ### Conteúdo aprendido e trabalhado
 
-Durante o desenvolvimento deste desafio, foquei em organizar o CSS de forma modular e utilizar recursos modernos do CSS3:
+Durante o desenvolvimento deste desafio, foquei em organizar o CSS de forma modular e utilizar recursos modernos do CSS3, além de implementar lógica dinâmica com JavaScript:
 
+- **Consumo de Dados Dinâmicos (Fetch API):** Implementação de carregamento de dados a partir de um arquivo `data.json`, permitindo que a lista de resumo seja gerada dinamicamente, simulando uma integração com API.
+- **Assincronismo (Async/Await):** Uso de funções assíncronas para garantir que os dados sejam carregados antes da renderização dos elementos na tela.
+- **Manipulação de DOM:** Criação dinâmica de elementos HTML (`createElement`) e injeção de conteúdo via `innerHTML`.
 - **Variáveis CSS (Custom Properties):** Utilizadas para gerenciar cores e fontes de forma centralizada em `variables.css`, facilitando a manutenção.
 - **Flexbox Layout:** Essencial para o alinhamento central do componente e para a organização interna das seções `hero` e `features`.
-- **Design Responsivo:** Implementação de `@media queries` para garantir que o componente se adapte perfeitamente de dispositivos móveis a desktops, alterando a direção do fluxo do flexbox de coluna para linha.
-- **Estilização de Gradientes:** Uso de `linear-gradient` para criar o efeito visual de profundidade no círculo de pontuação e no fundo da seção de destaque.
-- **Organização de Arquivos:** Separação de responsabilidades em múltiplos arquivos CSS (`reset.css`, `variables.css`, `base.css`, `global.css`) para um código mais limpo e escalável.
+- **Design Responsivo:** Implementação de `@media queries` para garantir que o componente se adapte perfeitamente de dispositivos móveis a desktops.
+- **Organização de Arquivos:** Separação de responsabilidades em múltiplos arquivos CSS e pastas de dados/scripts para um código profissional e escalável.
 
 ### Tecnologias utilizadas
 
